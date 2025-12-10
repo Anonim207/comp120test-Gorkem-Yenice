@@ -4,4 +4,6 @@ Gorkem Yenice
 
 COMP120
 
-Have a great christmas
+Have a great christmas 
+
+goodbye
